@@ -2,6 +2,20 @@
 
 В этом Readme приведены те части, которые требовались в кейсе, но в целом удобнее сразу смотреть Jupyter ноутбук.
 
+# **Part 0** **To do List**
+
+1. Hide all installations in setup.py
+
+2. Add the backbone of the WebUI Stable Diffusion interface to fully automate the code
+
+3. Look for additional methods of image preprocessing, since AUTOMATIC1111 already uses SwinIR 
+
+4. Add tag clustering
+
+5. Try Midjourney to get an alien image
+
+6. Add an image difference function to generate a sample of the most diverse offers
+
 # **Часть 1** **TL;DR**
 
 
