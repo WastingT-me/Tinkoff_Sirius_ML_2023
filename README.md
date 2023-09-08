@@ -4,17 +4,17 @@
 
 # **Part 0** **To do List**
 
-1. Hide all installations in setup.py
+1. Hide all installations in setup.sh
 
 2. Add the backbone of the WebUI Stable Diffusion interface to fully automate the code
 
-3. Look for additional methods of image preprocessing, since AUTOMATIC1111 already uses SwinIR 
+3. Look for additional methods of image preprocessing, since AUTOMATIC1111 already uses SwinIR -- DONE
 
-4. Add tag clustering
+4. Add tag clustering -- DONE
 
-5. Try Midjourney to get an alien image
+5. Try Midjourney to get an alien image -- Non - priority 
 
-6. Add an image difference function to generate a sample of the most diverse offers
+6. Add an image difference function to generate a sample of the most diverse offers -- Non - priority
 
 # **Часть 1** **TL;DR**
 
