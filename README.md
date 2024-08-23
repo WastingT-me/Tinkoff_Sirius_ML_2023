@@ -1,3 +1,5 @@
+# **Upd. 23.08.2024** Добавил возможность отдельного upscale'a в [ <a href="https://colab.research.google.com/drive/1paPrt62ydwLv2U2eZqfcFsePI4X4WRR1?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1PhqtX6f3NNC3ktXpWt5G2n_z2doualvk?usp=sharing). **В Colab работает только на TPU v2!**
+
 # **Кейс по CV отборочного этапа ML-смены Tinkoff в Сириусе 2023**
 
 В этом Readme приведены те части, которые требовались в кейсе, но в целом удобнее сразу смотреть Jupyter ноутбук.
